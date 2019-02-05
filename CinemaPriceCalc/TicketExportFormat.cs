@@ -4,9 +4,8 @@ using System.Text;
 
 namespace CinemaPriceCalc
 {
-    class TicketExportFormat enum
+    class TicketExportFormat 
     {
-        PLAINTEXT,
-        JSON;
+    
     }
 }
